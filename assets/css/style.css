@@ -1,5 +1,3 @@
-/* This is a Test */
-
 * {
     color: #777777;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
@@ -25,13 +23,14 @@ header {
     border: 2px solid;
     background: #4aaaa5;
     text-align: center;
+    margin-left: 25%;
 }
 
 nav {
     float: left;
     width: 25%;
     margin-top: 25px;
-    margin-left: 45%;
+    margin-left: 20%;
     text-align: center;
 }
 
